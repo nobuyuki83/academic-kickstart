@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
-    <link>http://nobuyuki83.github.io/academic-kickstart/</link>
-      <atom:link href="http://nobuyuki83.github.io/academic-kickstart/index.xml" rel="self" type="application/rss+xml" />
+    <link>//nobuyuki83.github.io/academic-kickstart/docs/</link>
+      <atom:link href="//nobuyuki83.github.io/academic-kickstart/docs/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Academic</title>
-      <link>http://nobuyuki83.github.io/academic-kickstart/</link>
+      <link>//nobuyuki83.github.io/academic-kickstart/docs/</link>
     </image>
     
   </channel>
