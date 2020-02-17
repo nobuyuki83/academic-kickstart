@@ -10,3 +10,6 @@
 publishDir = "docs"
 baseurl = "https://nobuyuki83.github.io"
 canonifyurls = true
+theme = "academic"
+languageCode = "en-us"
+title = "My New Hugo Site"
