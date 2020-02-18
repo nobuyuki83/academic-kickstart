@@ -22,8 +22,8 @@ bio: My research interests include interactive smart engineering design tool usi
 
 interests:
 - Computational Fabrication
-- Physics Simulation
-- Computer Graphics
+- 物理シミュレーション
+- コンピュータ・グラフィックス
 
 education:
   courses:

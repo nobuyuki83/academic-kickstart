@@ -6,10 +6,12 @@
   languageCode = "en"
   baseurl = "//nobuyuki83.github.io/academic-kickstart/en/"
   contentDir = "content/en" 
+  canonifyurls = true
   
 [ja]
   languageCode = "ja"
   baseurl = "//nobuyuki83.github.io/academic-kickstart/ja/"	    
   contentDir = "content/ja"
+  canonifyurls = true  
 
 
