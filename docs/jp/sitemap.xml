@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>//nobuyuki83.github.io/academic-kickstart/jp/authors/admin/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//nobuyuki83.github.io/academic-kickstart/authors/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="//nobuyuki83.github.io/academic-kickstart/jp/authors/admin/"
+                />
+  </url>
+  
+  <url>
+    <loc>//nobuyuki83.github.io/academic-kickstart/jp/authors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//nobuyuki83.github.io/academic-kickstart/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="//nobuyuki83.github.io/academic-kickstart/jp/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>//nobuyuki83.github.io/academic-kickstart/jp/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//nobuyuki83.github.io/academic-kickstart/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="//nobuyuki83.github.io/academic-kickstart/jp/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>//nobuyuki83.github.io/academic-kickstart/jp/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//nobuyuki83.github.io/academic-kickstart/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="//nobuyuki83.github.io/academic-kickstart/jp/"
+                />
+  </url>
+  
+  <url>
+    <loc>//nobuyuki83.github.io/academic-kickstart/jp/post/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//nobuyuki83.github.io/academic-kickstart/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="//nobuyuki83.github.io/academic-kickstart/jp/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>//nobuyuki83.github.io/academic-kickstart/jp/publication_types/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//nobuyuki83.github.io/academic-kickstart/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="//nobuyuki83.github.io/academic-kickstart/jp/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>//nobuyuki83.github.io/academic-kickstart/jp/publication/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//nobuyuki83.github.io/academic-kickstart/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="//nobuyuki83.github.io/academic-kickstart/jp/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>//nobuyuki83.github.io/academic-kickstart/jp/talk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//nobuyuki83.github.io/academic-kickstart/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="//nobuyuki83.github.io/academic-kickstart/jp/talk/"
+                />
+  </url>
+  
+  <url>
+    <loc>//nobuyuki83.github.io/academic-kickstart/jp/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//nobuyuki83.github.io/academic-kickstart/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="//nobuyuki83.github.io/academic-kickstart/jp/tags/"
+                />
+  </url>
+  
+</urlset>
