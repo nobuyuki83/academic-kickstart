@@ -4,8 +4,8 @@
 
 [en]
   languageCode = "en"
-  baseurl = "//nobuyuki83.github.io/academic-kickstart/"
-  contentDir = "content/en"  
+  baseurl = "//nobuyuki83.github.io/academic-kickstart/en/"
+  contentDir = "content/en" 
   
 [ja]
   languageCode = "ja"
