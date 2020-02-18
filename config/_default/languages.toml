@@ -9,7 +9,7 @@
   
 [ja]
   languageCode = "ja"
-  baseurl = "//nobuyuki83.github.io/academic-kickstart/jp/"	    
-  contentDir = "content/jp"
+  baseurl = "//nobuyuki83.github.io/academic-kickstart/ja/"	    
+  contentDir = "content/ja"
 
 
