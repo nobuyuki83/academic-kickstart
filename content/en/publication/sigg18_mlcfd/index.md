@@ -43,7 +43,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Learning 3D Air flow'
+  caption: ''
   focal_point: ""
   preview_only: true
 
