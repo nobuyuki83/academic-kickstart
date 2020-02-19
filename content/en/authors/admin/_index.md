@@ -28,10 +28,10 @@ interests:
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
+    institution: The University of Tokyo
     year: 2012
   - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+    institution: The Univeristy of Tokyo
     year: 2009
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology

@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include interactive smart engineering design tool using physics simulation and machine learning.
 
 interests:
-- Computational Fabrication
+- コンピュータ支援設計、三次元形状モデリング
 - 物理シミュレーション
 - コンピュータ・グラフィックス
 

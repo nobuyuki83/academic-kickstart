@@ -4,6 +4,7 @@
   
   <url>
     <loc>//nobuyuki83.github.io/academic-kickstart/en/authors/admin/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -17,7 +18,13 @@
   </url>
   
   <url>
+    <loc>//nobuyuki83.github.io/academic-kickstart/en/publication_types/2/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>//nobuyuki83.github.io/academic-kickstart/en/authors/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -31,21 +38,13 @@
   </url>
   
   <url>
-    <loc>//nobuyuki83.github.io/academic-kickstart/en/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="//nobuyuki83.github.io/academic-kickstart/ja/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//nobuyuki83.github.io/academic-kickstart/en/categories/"
-                />
+    <loc>//nobuyuki83.github.io/academic-kickstart/en/authors/bernd-bickel/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>//nobuyuki83.github.io/academic-kickstart/en/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -59,21 +58,13 @@
   </url>
   
   <url>
-    <loc>//nobuyuki83.github.io/academic-kickstart/en/post/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="//nobuyuki83.github.io/academic-kickstart/ja/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//nobuyuki83.github.io/academic-kickstart/en/post/"
-                />
+    <loc>//nobuyuki83.github.io/academic-kickstart/en/publication/sigg18_mlcfd/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>//nobuyuki83.github.io/academic-kickstart/en/publication_types/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -88,6 +79,7 @@
   
   <url>
     <loc>//nobuyuki83.github.io/academic-kickstart/en/publication/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -101,21 +93,13 @@
   </url>
   
   <url>
-    <loc>//nobuyuki83.github.io/academic-kickstart/en/talk/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="//nobuyuki83.github.io/academic-kickstart/ja/talk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//nobuyuki83.github.io/academic-kickstart/en/talk/"
-                />
+    <loc>//nobuyuki83.github.io/academic-kickstart/en/tags/source-themes/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>//nobuyuki83.github.io/academic-kickstart/en/tags/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -125,6 +109,50 @@
                 rel="alternate"
                 hreflang="en"
                 href="//nobuyuki83.github.io/academic-kickstart/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>//nobuyuki83.github.io/academic-kickstart/en/authors/athina-panotopoulou/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//nobuyuki83.github.io/academic-kickstart/en/authors/emily-whiting/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//nobuyuki83.github.io/academic-kickstart/en/publication/sigga16_printone/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//nobuyuki83.github.io/academic-kickstart/en/authors/ryan-schmidt/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//nobuyuki83.github.io/academic-kickstart/en/publication_types/1/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//nobuyuki83.github.io/academic-kickstart/en/publication/sigga17tb_mlcarshape/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//nobuyuki83.github.io/academic-kickstart/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="//nobuyuki83.github.io/academic-kickstart/ja/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//nobuyuki83.github.io/academic-kickstart/en/categories/"
                 />
   </url>
   
