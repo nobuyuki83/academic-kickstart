@@ -14,27 +14,29 @@ role: 准教授
 
 # Organizations/Affiliations
 organizations:
-- name: 東京大学大学院 創造情報学専攻
+- name: 東京大学大学院 情報理工学系研究科　創造情報学専攻 
   url: "https://www.i.u-tokyo.ac.jp/edu/course/ci/aim_e.shtml"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include interactive smart engineering design tool using physics simulation and machine learning.
+bio: コンピュータを使った賢いモノづくり、インタラクティブな物理シミュレーション、機械学習による形状処理などを研究しています。
 
 interests:
-- コンピュータ支援設計、三次元形状モデリング
+- コンピュータグラフィックス
+- コンピュータ支援設計
 - 物理シミュレーション
-- コンピュータ・グラフィックス
+- バイオメカニクス
+- 形状や自然現象の機械学習
 
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
+    institution: 東京大学大学院
     year: 2012
   - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+    institution: 東京大学大学院　新領域創成科学研究科
     year: 2009
   - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+    institution: 東京大学　工学部 産業機械工学科
     year: 2008
 
 # Social/Academic Networking
@@ -70,6 +72,20 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+コンピュータを使った賢い設計支援や、コンピュータアニメーション、
+デジタル表現の支援を研究しています。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+３Dプリンタやレーザーカッターのような数値制御の工作機械が身近になっています。
+しかしながら、まだ専門知識を持たない人が高度な機能を持つ設計をすることは難しいです。
+
+また、機械学習や物理シミュレーションなどの数値アルゴリズムが進歩していく中で、
+どのように設計やコンピュータアニメーションに応用できるでしょうか？
+
+コンピュータ科学と工学の分野融合的な視点で研究を進めています。
+
+
+
+
+
+
+
